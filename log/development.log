@@ -242,3 +242,6 @@ Processing by StudentsController#index as HTML
   Rendering students/index.html.erb within layouts/application
   [1m[36mStudent Load (0.2ms)[0m  [1m[34mSELECT "students".* FROM "students"[0m
   Rendered students/index.html.erb within layouts/application (5.2ms)
+Completed 200 OK in 309ms (Views: 306.8ms | ActiveRecord: 0.9ms)
+
+
